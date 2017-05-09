@@ -1,4 +1,4 @@
-# Sandbox
+# This repo is for demo purposes only.
 
 Hello friends!
 
